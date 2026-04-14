@@ -126,7 +126,7 @@ st.markdown(
 st.markdown(
     """
     <div class="sap-alert">
-        <b>⚠ Aviso importante:</b> La información es asistida por IA y debe validarse con fuentes oficiales antes de su envío final.
+        <b>⚠ Aviso importante:</b> Uno debe elegir la noticia que quiere enviar y debe validarse con fuentes oficiales antes de su envío final.
     </div>
     """,
     unsafe_allow_html=True
