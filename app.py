@@ -110,7 +110,7 @@ st.markdown(
     <div class="sap-hero">
         <div style="display:flex; align-items:center; gap:14px; margin-bottom:8px;">
             <div style="background:#fff; color:#0057D9; border-radius:8px; font-weight:700; padding:8px 10px;">SAP</div>
-            <div style="font-weight:700; opacity:.9;">SAP COMPASS SUITE</div>
+            <div style="font-weight:700; opacity:.9;">Operations Team</div>
         </div>
         <h1 style="margin:0; font-size:44px; line-height:1.05;">Newsletter</h1>
         <p style="margin:10px 0 14px 0; font-size:18px; opacity:.95;">Plataforma de noticias por país para equipo comercial (AE)</p>
