@@ -21,13 +21,13 @@ st.set_page_config(
 COUNTRIES = ["Argentina", "Chile", "Perú", "Colombia"]
 
 AE_EMAILS: Dict[str, List[str]] = {
-    "Argentina": ["ae.argentina1@sap.com", "ae.argentina2@sap.com"],
-    "Chile":     ["ae.chile1@sap.com",     "ae.chile2@sap.com"],
-    "Perú":      ["ae.peru1@sap.com",       "ae.peru2@sap.com"],
-    "Colombia":  ["ae.colombia1@sap.com",   "ae.colombia2@sap.com"],
+    "Argentina": [ ],
+    "Chile":     [],
+    "Perú":      [],
+    "Colombia":  [],
 }
 
-CC_EMAILS = ["operaciones@sap.com", "lider.comercial@sap.com"]
+CC_EMAILS = ["Julieta.rigi@sap.com", "Nicolas.araneda@sap.com", "Agustina.landi@sap.com" , "luis.plazas@sap.com", "Fernando.oriolo@sap.com", "daniel.castro@sap.com", "Soledad.novas@sap.com"]
 
 INDUSTRIES = [
     "Tecnología y Software Empresarial",
