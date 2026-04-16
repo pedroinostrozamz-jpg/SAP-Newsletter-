@@ -27,7 +27,7 @@ AE_EMAILS: Dict[str, List[str]] = {
     "Colombia":  [],
 }
 
-CC_EMAILS = ["Julieta.rigi@sap.com", "Nicolas.araneda@sap.com", "Agustina.landi@sap.com" , "luis.plazas@sap.com", "Fernando.oriolo@sap.com", "daniel.castro@sap.com", "Soledad.novas@sap.com"]
+CC_EMAILS = ["Julieta.rigi@sap.com", "Nicolas.araneda@sap.com", "Agustina.landi@sap.com" , "luis.plazas@sap.com"]
 
 INDUSTRIES = [
     "Tecnología y Software Empresarial",
