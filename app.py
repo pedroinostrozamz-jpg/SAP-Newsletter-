@@ -727,7 +727,7 @@ if st.session_state.newsletter_html:
 
     col_mail1, col_mail2 = st.columns(2)
 
-        with col_mail1:
+    with col_mail1:
         st.markdown("**Destinatarios (Para:)**")
         if to_emails:
             for email in to_emails:
