@@ -1411,7 +1411,7 @@ st.markdown("---")
 st.markdown(
     "<div style='text-align:center; color:#9CA3AF; font-size:12px; padding:10px 0;'>"
     "SAP Operations Team · Newsletter Intelligence · "
-    "Noticias reales via Google News RSS · Análisis por Claude AI (Anthropic) · "
+    "Noticias reales via Google News RSS · Made By Pedro Inostroza · "
     + datetime.now().strftime("%Y") +
     "</div>",
     unsafe_allow_html=True
