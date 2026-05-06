@@ -975,8 +975,7 @@ if country_info:
     for i, ind in enumerate(country_info["industries"]):
         col_idx = i % 3
         with cols[col_idx]:
-            count = len(country_info["entities_by_industry"].get(ind, []))
-            if st.checkbox(f"{ind} ({count})", value=True, key=f"ind_sel_{ind}"):
+            if st.checkbox(ind, value=True, key=f"ind_sel_{ind}"):
                 selected_industries.append(ind)
 
     st.markdown("---")
